@@ -47,7 +47,7 @@
   "MinimalHeader":false,
   "MergePTHandNPTH":false,
   "RouteModeForOvalHoles":true,
-  "DrillUnitMM":false,
+  "DrillUnitMM":true,
   "ZerosFormat":{
     "DecimalFormat":true,
     "SuppressLeading":false,
